@@ -14,7 +14,7 @@ This project is a template for building microservices with Flask.
 
 .. image:: https://readthedocs.org/projects/zadanie5a/badge/?version=latest
 :target: https://zadanie5a.readthedocs.io/en/latest/?badge=latest
-:alt: Documentation Status
+
 
 
 
