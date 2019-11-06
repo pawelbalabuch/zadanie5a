@@ -1,0 +1,32 @@
+{
+  "$id": "29",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": "",
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2019-11-06T17:01:15.1033747+01:00",
+  "LastUsedView": 0,
+  "LogBranchFilterIndex": 1,
+  "OutgoingSavedCount": 0,
+  "SidebarExpandedItems": [
+    "Branches"
+  ],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": [],
+  "RemoteProjectLinks": [
+    {
+      "$id": "30",
+      "BaseUrl": "https://www.github.com",
+      "Identifier": "pawelbalabuch/zadanie5a",
+      "RemoteName": "origin",
+      "Type": 0,
+      "Username": "pawelbalabuch",
+      "CloneUrl": null,
+      "ProjectUrl": null,
+      "AccountId": null,
+      "AvatarUrl": null,
+      "DisplayName": "origin: https://www.github.com"
+    }
+  ]
+}
